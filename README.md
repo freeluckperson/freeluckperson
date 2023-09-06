@@ -2,12 +2,13 @@
 <div align="center">
 <h1 align="center">Hi, there <a href="https://cv.ericksegura5.repl.co/">Erick</a> 👋</h1>
 </div>
-<img src="https://i.imgur.com/weNbhGZ.png">
+<img src="https://i.imgur.com/SVfEvLp.jpg">
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
-[![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
-[![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/ArisGuimera)
-![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
+## About
+
+  I am an agricultural engineer and full-stack web developer. Although my training 📗 and work experience focus on agriculture, I have decided to explore my interest in web programming 💻. Through my ✏️ training and practice, I have acquired skills in web development both on the 🌐 front-end and back-end. I am motivated to continue learning and developing my skills in the field of web programming, and I hope to apply my knowledge to projects with attractive design and easy-to-use, intuitive navigation. 🌱📈
+
+<br>
 
 <!--
 **freeluckperson/freeluckperson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
