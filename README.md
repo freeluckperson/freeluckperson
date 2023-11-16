@@ -8,7 +8,7 @@
 I am an agricultural engineer and full-stack web developer. Although my training 📗 and work experience focus on agriculture, I have decided to explore my interest in web programming 💻. Through my ✏️ training and practice, I have acquired skills in web development both on the 🌐 front-end and back-end. I am motivated to continue learning and developing my skills in the field of web programming, and I hope to apply my knowledge to projects with attractive design and easy-to-use, intuitive navigation. 🌱📈
   
 
-<a href='https://nuevo-cv.vercel.app'>MyWEB<a/>
+<a href='https://freeluckperson.github.io/my-web-gh-pages/'>MyWEB<a/>
 <br/>
 <a href='https://www.linkedin.com/in/erick-daniel-segura-cabello-9b172a129/'>Linkedin<a/>
 <p>Email: gestionecesaria@gmail.com<p/>
